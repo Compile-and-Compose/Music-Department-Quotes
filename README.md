@@ -1,4 +1,4 @@
-# Music Departement Qoutes Out of Context
+# Music Departement Quotes Out of Context
 
 # Adding more quotes:
 1. Open the .txt file (`music-dmpt_qoutes.txt`)
