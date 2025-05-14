@@ -8,3 +8,5 @@
 3. Commit:
 - Add the person's name for the commit title
   - Exapmple: Added Enersto
+
+# Top 2025 Quotes:
