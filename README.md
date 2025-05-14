@@ -1,8 +1,8 @@
 # Music Departement Qoutes Out of Context
 
-# Ading more qoutes:
+# Adding more quotes:
 1. Open the .txt file (`music-dmpt_qoutes.txt`)
-- Add a new line to the txt file (at the bottom) and add the qoute **On the new line**
+- Add a new line to the txt file (at the bottom) and add the quote **On the new line**
 2. Follow this format:
   - Example: "Ducks are cool" - person date
 3. Commit:
